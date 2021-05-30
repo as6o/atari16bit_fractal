@@ -7,3 +7,9 @@ Otherwise, the code is pretty naive and slow (not nearly as bad as the ray trace
 The code still compiles and runs in emulators but there seem to be a few bugs here and there.
 
 `AUXSUBS.PAS` and `GEMSUBS.PAS` from Personal Pascal have been included here for completeness.  The files don't have any licensing information and I tried to track down potential owners but OSS is long gone and Bill Wilkinson has unfortunately passed away.  I'm assuming these are safe to include here but will remove if proven otherwise.
+
+An example plot:
+![Fractal Plot](images/fractal_plot.png)
+
+The user interface:
+![Fractal UI](images/fractal_ui.png)
