@@ -1,7 +1,7 @@
 ## A fractal generation program for the Atari ST
 
 This is a fractal generation program I wrote when I was probably 15 or 16 (the late 1980s).
-It was written in [Personal Pascal](http://www.atarimania.com/utility-atari-st-personal-pascal_23202.html) by [OSS](https://en.wikipedia.org/wiki/Optimized_Systems_Software) for the Atari ST line of computers.
+It was written in [OSS's](https://en.wikipedia.org/wiki/Optimized_Systems_Software) [Personal Pascal](http://www.atarimania.com/utility-atari-st-personal-pascal_23202.html) for the Atari ST line of computers.
 I remember taking a lot of inspiration from [Degas Elite](https://sites.google.com/site/stessential/drawing-tools/degas-elite) for the UI.
 Otherwise, the code is pretty naive and slow (not nearly as bad as the ray tracer I wrote around the same time, ugh).
 The code still compiles and runs in emulators but there seem to be a few bugs here and there.
